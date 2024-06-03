@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing file 1.
+=======
+This is my change on remote server.
+>>>>>>> 939ec9fe4071d597f3cedb923b092448667f8837
